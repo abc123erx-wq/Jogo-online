@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "⚽ Futebol 3D — Behavior Pack",
+    "description": "Mod de futebol para Minecraft Bedrock 1.26.44: bola 3D, hat-trick, campo automático, placar, times, sons e muito mais!",
+    "uuid": "df7813f8-c1a2-4f18-8965-09035a9db0fb",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "d636229c-5aed-4eb6-bed1-0239c506c132",
+      "version": [1, 0, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "0e5fe1e1-3d10-419b-ba4b-7f09b5a0ad13",
+      "entry": "scripts/main.js",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "bfe5e30f-2322-427a-9400-a176e87daa83",
+      "version": [1, 0, 0]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.10.0-beta.1.26.44-stable"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.2.0-beta.1.26.44-stable"
+    }
+  ]
+}

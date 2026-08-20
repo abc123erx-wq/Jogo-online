@@ -1,0 +1,41 @@
+{
+  "format_version": "1.2.0",
+  "sounds": {
+    "fute_kick": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_kick" }]
+    },
+    "fute_bounce": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_bounce" }]
+    },
+    "fute_pickup": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_pickup" }]
+    },
+    "fute_count": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_count" }]
+    },
+    "fute_whistle": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_whistle" }]
+    },
+    "fute_goal": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_goal" }]
+    },
+    "fute_hat": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_hat" }]
+    },
+    "fute_crowd": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_crowd" }]
+    },
+    "fute_end": {
+      "category": "master",
+      "sounds": [{ "path": "sounds/fute_end" }]
+    }
+  }
+}

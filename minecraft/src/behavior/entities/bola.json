@@ -1,0 +1,23 @@
+{
+  "format_version": "1.16.0",
+  "minecraft:entity": {
+    "description": {
+      "identifier": "futebol:bola",
+      "is_spawnable": true,
+      "is_summonable": true,
+      "is_experimental": false
+    },
+    "components": {
+      "minecraft:collision_box": {
+        "width": 0.42,
+        "height": 0.42
+      },
+      "minecraft:physics": false,
+      "minecraft:pushable": {
+        "pushes": false,
+        "is_pushed": false
+      },
+      "minecraft:fire_immune": true
+    }
+  }
+}

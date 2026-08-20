@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.60",
+  "minecraft:item": {
+    "description": {
+      "identifier": "futebol:trofeu",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.snowball"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": ["futebol_trofeu"]
+      },
+      "minecraft:display_name": {
+        "value": "🏆 Troféu de Hat-Trick"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:foil": true
+    }
+  }
+}

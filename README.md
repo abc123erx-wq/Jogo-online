@@ -1,4 +1,22 @@
-# 🎮 Jogo Online - Servidor WebSocket
+# 🎮 Jogo Online
+
+Repositório de jogos online.
+
+## ⚽ MOD: Futebol 3D — Minecraft Bedrock 1.26.44
+
+Mod de futebol completo para Minecraft Bedrock (comportamento + recursos + scripts):
+**bola 3D animada** com física própria, **campo automático com gols e rede**, partidas com
+cronômetro, placar persistente, times, estatísticas, **HAT-TRICK com fanfarra e troféu**,
+menu por formulário, sons e efeitos.
+
+👉 **Documentação completa, comandos e instalação:** [`minecraft/README.md`](minecraft/README.md)
+
+Instalação rápida: abra `minecraft/packs/futebol-3d.mcaddon` no Minecraft e ative os dois
+packs no mundo. Depois: `/fute campo` → `/fute inicio` → chute a bola e marque 3 gols! 🎩
+
+---
+
+## 🌐 Servidor WebSocket
 
 Servidor WebSocket completo para jogos online multiplayer, configurado para deploy no Railway Cloud.
 

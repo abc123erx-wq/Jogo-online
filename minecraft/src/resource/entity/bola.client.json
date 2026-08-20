@@ -1,0 +1,23 @@
+{
+  "format_version": "1.10.0",
+  "minecraft:client_entity": {
+    "description": {
+      "identifier": "futebol:bola",
+      "materials": {
+        "default": "entity_alphatest"
+      },
+      "textures": {
+        "default": "textures/entity/bola"
+      },
+      "geometry": {
+        "default": "geometry.futebol_bola"
+      },
+      "scripts": {
+        "animate": ["bola_spin"]
+      },
+      "animations": {
+        "bola_spin": "definition.bola_spin"
+      }
+    }
+  }
+}

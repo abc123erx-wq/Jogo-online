@@ -1,0 +1,17 @@
+{
+  "format_version": "1.10.0",
+  "animations": {
+    "definition.bola_spin": {
+      "loop": true,
+      "animation_length": 1,
+      "bones": {
+        "bola": {
+          "rotation": [
+            [0, 12, 0, 0],
+            [1, 12, 360, 0]
+          ]
+        }
+      }
+    }
+  }
+}

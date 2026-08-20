@@ -1,0 +1,12 @@
+{
+  "resource_pack_name": "futebol_3d",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "futebol_bola": {
+      "textures": "textures/items/bola"
+    },
+    "futebol_trofeu": {
+      "textures": "textures/items/trofeu"
+    }
+  }
+}

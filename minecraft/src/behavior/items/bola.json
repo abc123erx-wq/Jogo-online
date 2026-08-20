@@ -1,0 +1,22 @@
+{
+  "format_version": "1.20.60",
+  "minecraft:item": {
+    "description": {
+      "identifier": "futebol:bola",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.snowball"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "textures": ["futebol_bola"]
+      },
+      "minecraft:display_name": {
+        "value": "Bola de Futebol 3D"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:foil": true
+    }
+  }
+}

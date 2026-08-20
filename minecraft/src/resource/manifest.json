@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "⚽ Futebol 3D — Resource Pack",
+    "description": "Texturas, modelo 3D animado da bola, ícones e sons do mod de Futebol.",
+    "uuid": "bfe5e30f-2322-427a-9400-a176e87daa83",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 26, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "77dee2b9-6c28-4973-ba77-7b67573573f9",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": []
+}
